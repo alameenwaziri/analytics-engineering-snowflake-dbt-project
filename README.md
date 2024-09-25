@@ -1,4 +1,4 @@
-snowflake-dbt starter project!
+Analytics-engineering-snowflake-dbt starter project!
 
 
 
